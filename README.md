@@ -1,5 +1,7 @@
 # Tokenizer & Chat Template Explorer
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raghu619/tokenizer-chat-template-explorer/blob/main/AI_Text_Understanding_Explorer.ipynb)
+
 A side-by-side look at how four modern instruct LLMs turn the *same* text into the numbers they actually read.
 
 This is a learning project from my journey into AI Engineering. It makes one idea concrete: **an LLM never sees your words — it sees a sequence of integers, and every model maps text to integers differently.**
